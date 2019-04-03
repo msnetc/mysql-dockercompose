@@ -25,6 +25,7 @@ socket		= /var/run/mysqld/mysqld.sock
 nice		= 0
 
 [mysqld]
+default-time_zone = '+8:00'
 #
 # * Basic Settings
 #
